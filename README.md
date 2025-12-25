@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/ansar-sakeen/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  <a href="https://instagram.com/ansar-75" target="_blank">
+  <a href="https://instagram.com/ansar_75" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
   </a>
   <a href="mailto:ansarsakeen75@gmail.com">
