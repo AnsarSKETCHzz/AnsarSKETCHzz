@@ -13,29 +13,35 @@
 ---
 
 ## 🌐 Connect with Me
+## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://github.com/AnsarSKETCHzz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://linkedin.com/in/ansar-sakeen/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  <a href="https://instagram.com/ansar-75" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
+  </a>
+  <a href="mailto:ansarsakeen75@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" />
   </a>
 </p>
+
 
 ---
 
 ## 🛠️ Languages & Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </p>
 
 ---
