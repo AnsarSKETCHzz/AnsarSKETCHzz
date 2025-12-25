@@ -7,8 +7,8 @@
 ## 👨‍💻 About Me
 - 🎓 Second-year B.Tech student in Computer Science and IoT
 - 🔌 Interested in IoT, Embedded Systems, and Automation
-- 🎨 Learning Graphic Design using Canva
-- 🚀 Actively looking for internships and hands-on projects
+- 🎨 Graphic designer focused on integrating clean aesthetics and visual design into digital products, including websites and user interfaces
+- 🚀 Working as a graphic design intern with two companies, strengthening my aesthetic judgment and design execution, while actively pursuing roles in high-tech organizations
 
 ---
 
@@ -41,21 +41,31 @@
 ---
 
 ## 🔧 Tools & Platforms
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva">
-  <img src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white">
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape">
+  <!-- Hardware / Dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+
+  <!-- Design -->
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" />
+  <img src="https://cdn.simpleicons.org/affinitydesigner/1B72BE" width="40" />
+  <img src="https://cdn.simpleicons.org/inkscape/000000" width="40" />
+
+  <!-- Backend / Cloud / AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="40" />
+  <img src="https://cdn.simpleicons.org/heart/FF4D4D" width="40" title="Lovable AI" />
 </p>
 
 ---
 
 
 ## 🚀 Current Focus
-- 📡 Building IoT mini-projects
+- 📡 Building Full Stack Apps and Working on IoT mini-projects
 - 🧠 Strengthening DSA fundamentals
 - 💼 Preparing for internships
 
