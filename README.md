@@ -51,8 +51,6 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" />
   <img src="https://cdn.simpleicons.org/inkscape/000000" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="40" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" />
   <img src="https://cdn.simpleicons.org/notion/000000" width="40" />
   <img src="https://cdn.simpleicons.org/upwork/6FDA44" width="40" />
 </p>
