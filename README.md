@@ -43,22 +43,18 @@
 ## 🔧 Tools & Platforms
 
 <p align="left">
-  <!-- Hardware / Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-
-  <!-- Design -->
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" />
-  <img src="https://cdn.simpleicons.org/affinitydesigner/1B72BE" width="40" />
   <img src="https://cdn.simpleicons.org/inkscape/000000" width="40" />
-
-  <!-- Backend / Cloud / AI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="40" />
-  <img src="https://cdn.simpleicons.org/heart/FF4D4D" width="40" title="Lovable AI" />
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="40" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" />
+  <img src="https://cdn.simpleicons.org/notion/000000" width="40" />
+  <img src="https://cdn.simpleicons.org/upwork/6FDA44" width="40" />
 </p>
 
 ---
