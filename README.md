@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva">
+  <img src="https://img.shields.io/badge/Affinity%20Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape">
 </p>
 
 ---
