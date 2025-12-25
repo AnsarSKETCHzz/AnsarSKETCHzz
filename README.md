@@ -13,7 +13,6 @@
 ---
 
 ## 🌐 Connect with Me
-## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://github.com/AnsarSKETCHzz" target="_blank">
