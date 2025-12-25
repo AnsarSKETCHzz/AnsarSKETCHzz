@@ -19,7 +19,7 @@
   <a href="https://github.com/AnsarSKETCHzz" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ansar-sakeen/" target="_blank">
+  <a href="https://www.linkedin.com/in/ansar-sakeen-6718472bb/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="https://instagram.com/ansar_75" target="_blank">
