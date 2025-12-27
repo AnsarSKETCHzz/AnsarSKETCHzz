@@ -58,9 +58,21 @@
   <img src="https://cdn.simpleicons.org/notion/000000" width="40" />
   <img src="https://cdn.simpleicons.org/upwork/6FDA44" width="40" />
 </p>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
 ---
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnsarSKETCHzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnsarSKETCHzz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsarSKETCHzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 ## 🚀 Current Focus
 - 📡 Building Full Stack Apps and Working on IoT mini-projects
@@ -68,5 +80,12 @@
 - 💼 Preparing for internships
 
 ---
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnsarSKETCHzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AnsarSKETCHzz&icon=0&color=7)](https://visitcount.itsvg.in)
 
 ⭐ *Learning by building. Growing by practice.*
